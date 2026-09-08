@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" fill="#F7F5F0" />
+  <circle cx="16" cy="16" r="11.5" fill="none" stroke="#C93E32" stroke-width="1" />
+  <text
+    x="16"
+    y="20.5"
+    text-anchor="middle"
+    font-size="11"
+    font-family="serif"
+    fill="#C93E32"
+  >麓</text>
+</svg>
